@@ -1,0 +1,15 @@
+D:\PROJECTS BOOTCAMP N10\N2\N2\bin\Debug\net7.0\N2.exe
+D:\PROJECTS BOOTCAMP N10\N2\N2\bin\Debug\net7.0\N2.deps.json
+D:\PROJECTS BOOTCAMP N10\N2\N2\bin\Debug\net7.0\N2.runtimeconfig.json
+D:\PROJECTS BOOTCAMP N10\N2\N2\bin\Debug\net7.0\N2.dll
+D:\PROJECTS BOOTCAMP N10\N2\N2\bin\Debug\net7.0\N2.pdb
+D:\PROJECTS BOOTCAMP N10\N2\N2\obj\Debug\net7.0\N2.csproj.AssemblyReference.cache
+D:\PROJECTS BOOTCAMP N10\N2\N2\obj\Debug\net7.0\N2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS BOOTCAMP N10\N2\N2\obj\Debug\net7.0\N2.AssemblyInfoInputs.cache
+D:\PROJECTS BOOTCAMP N10\N2\N2\obj\Debug\net7.0\N2.AssemblyInfo.cs
+D:\PROJECTS BOOTCAMP N10\N2\N2\obj\Debug\net7.0\N2.csproj.CoreCompileInputs.cache
+D:\PROJECTS BOOTCAMP N10\N2\N2\obj\Debug\net7.0\N2.dll
+D:\PROJECTS BOOTCAMP N10\N2\N2\obj\Debug\net7.0\refint\N2.dll
+D:\PROJECTS BOOTCAMP N10\N2\N2\obj\Debug\net7.0\N2.pdb
+D:\PROJECTS BOOTCAMP N10\N2\N2\obj\Debug\net7.0\N2.genruntimeconfig.cache
+D:\PROJECTS BOOTCAMP N10\N2\N2\obj\Debug\net7.0\ref\N2.dll
