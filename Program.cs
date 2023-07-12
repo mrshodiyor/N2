@@ -1,7 +1,31 @@
-﻿int a = 8;
-int b = 9;
+﻿
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
 
-Console.WriteLine("Hello, World! a = {0} b = {8}",a, b);
-string? text = Console.ReadLine();
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
 
-Console.WriteLine(text);
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+
+
+
+
+
+
+
+
+
+
